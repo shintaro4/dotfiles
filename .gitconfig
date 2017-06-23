@@ -1,0 +1,12 @@
+[user]
+	name = Shintaro Matsushima
+	email = shintaromatsushima@gmail.com
+[color]
+	ui = auto
+[core]
+	excludesfile = ~/.gitignore
+	editor = vim
+[merge]
+	tool = opendiff
+[push]
+	default = simple
